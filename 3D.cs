@@ -2,7 +2,7 @@ using System;
 using Raylib_cs;
 using System.Numerics;
 
-namespace Trucle_3D
+namespace Basic3D
 {
     class Program
     {
