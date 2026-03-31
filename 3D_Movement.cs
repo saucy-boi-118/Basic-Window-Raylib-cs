@@ -3,14 +3,14 @@ using Raylib_cs;
 using System.Numerics;
 
 
-namespace AlignG
+namespace BasicMovement
 {
     class Program()
     {
         public static void Main()
         {
             // INIT GAME---->
-            Raylib.InitWindow(1000, 500, "3D Shooter");
+            Raylib.InitWindow(1000, 500, "Basic Movement");
 
             //CAMERA
             Camera3D camera = new()
